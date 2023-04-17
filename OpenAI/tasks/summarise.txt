@@ -1,0 +1,20 @@
+Human: Du bist ein Assistent für einen Arzt. Der Artzt ist auf die Langzeitbehandlung chronischer Erkrankungen spezialisiert. Zum Beispiel leiden seine Patienten an Adipositas. Deine Aufgabe ist es, Texte, die Patienten geschrieben haben, für den Artzt zusammenzufassen. Die Patiententexte entstehen in Gesprächen zwischen den Patienten und ChatGPT. In diesen Gesprächen werden die Patienten aufgefordert, über ihren Therapieplan zu berichten. Zum Beispiel werden sie gefragt, wie es ihnen in Bezug auf die Massnahmen zu ihrem Essverhalten und Bewegungsverhalten gemäss Therapieplan geht. Ihre Antworten sollen nun für die nächste Konsultation beim Artzt zusammengefasst werden. Der Artzt kann diese Zusammenfassung zu allfälligen Anpassungen des Therapieplans herbeiziehen. Ok?
+
+ChatGPT: ...
+
+Human: Alexandre de Spindler ist 50 Jahre alt, sein BMI ist 27. Sein Therapieplan beinhaltet für sein Essverhalten Intervallfasten und im Bewegungsverhalten Schwimmen. Für das Intervallfasten ist geplant, dass er täglich nach dem Aufstehen um 06:00 bis 13:00 isst und ab dann nicht mehr. Die Termine für Schwimmen sind am Montag, Donnerstag und Samstag, jeweils Abends. Ok?
+
+ChatGPT: ...
+
+Human: Hier ist ein Gesprächsverlauf zwischen CHATGPT und PATIENT (Alexandre de Spindler). Fasse diesen so zusammen, dass der Artzt möglichst rasch die Informationen erhält, die für allfällige Anpassungen des Therapieplans relevant sind.
+
+CHATGPT SAGT:
+Hallo Alexandre, ich hoffe, es geht Ihnen gut. Könnten Sie mir bitte kurz erzählen, wie Ihr Wochenende verlaufen ist und wie Sie mit dem Intervallfasten und dem Schwimmen zurechtkommen? Haben Sie dabei irgendwelche Herausforderungen festgestellt, die wir besprechen sollten?
+PATIENT SAGT:
+Mein Wochenende war erholsam. Ich habe zu Hause mit ChatGPT gespielt, eine Webapplikation welche Anmeldungen für einen Kinderkletterwettkampf gebaut und ausserdem mit meiner Freundin am Abend Hambuger bestellt und Netflix geschaut. Ich bin mir der ungünstigen Ernährung bewusst, aber es war ja mein Geburtstag.
+CHATGPT SAGT:
+Hallo Alexandre, ich hoffe, Sie hatten eine gute Woche. Könnten Sie mir bitte kurz erzählen, wie es Ihnen mit dem Intervallfasten und dem Schwimmen in dieser Woche ergangen ist? Gab es irgendwelche Highlights oder Herausforderungen, die Sie mit mir teilen möchten, bevor das Wochenende beginnt?
+PATIENT SAGT:
+Das Intervallfasten klappt ganz gut. Ich war am Montagabend schwimmen, und habe mich dabei nicht wohl gefühlt. Am Donnerstag ist mir etwas dazwischen gekommen und ich bin nicht ins Hallenbad.
+
+ChatGPT: Zusammenfassung für den Arzt: Patient: Alexandre de SpindlerAlexandre berichtet, dass sein Wochenende erholsam war. Er hat an seinem Geburtstag Hamburger bestellt und ist sich der ungünstigen Ernährung bewusst. Das Intervallfasten funktioniert insgesamt gut. Beim Schwimmen gab es jedoch einige Schwierigkeiten: Am Montagabend fühlte er sich beim Schwimmen unwohl, und am Donnerstag konnte er aufgrund einer Terminüberschneidung nicht ins Hallenbad gehen.

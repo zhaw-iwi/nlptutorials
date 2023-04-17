@@ -1,0 +1,127 @@
+ICH:
+Merke dir bitte diese 9 Kommaregeln: 
+© 2012 HK Verlag / www.sprachtrainer.ch Seite 1 von 2
+Kommaregeln
+Im Teilsatz
+1 Reihungen (Aufzählungen) mit Komma
+(wenn und stehen könnte)
+ein altes, verfallenes Haus (altes und verfallenes Haus)
+das neue, erst vor kurzem gekaufte Auto
+1a Kein Komma zwischen ungleichen Adjektiven
+(wenn und nicht stehen könnte)
+ein interessantes und physikalisches Problem
+ein grosser und deutscher Dichter
+2 Apposition zwischen Kommas
+Achtung: Das 2. Komma nicht vergessen!
+Dr. Müller, seinem Anwalt, hat er die Vollmacht erteilt.
+Die Sitzung findet am Montag, dem 1. März, statt.
+3 Nachtrag zwischen Kommas
+Achtung: Das 2. Komma nicht vergessen!
+nämlich vor allem wenn auch/nicht
+und zwar namentlich das heisst (d. h.)
+und das zum Beispiel insbesondere
+also nicht zuletzt wie (optional)
+Sie beherrscht mehrere Fremdsprachen, nämlich
+Französisch, Italienisch und Englisch, sowie Deutsch.
+Das Schiff fährt zweimal wöchentlich, und zwar am
+Mittoch und am Samstag.
+3a Keine Gefühlskommas!
+(1) Attribute / Begleiter nicht abtrennen
+(2) Erstes Satzglied nicht vom Verb trennen
+Die genaue Abklärung (1) des von der Klägerin
+erhobenen Vorwurfes (2) wird Wochen dauern.
+Diese (1) von vielen erwarteten und von der
+Geschäftsleitung nun bestätigten Zahlen (2) sind für
+die Zukunft vielversprechend.
+4 Konjunktionen mit Komma
+(entgegenstellende Konjunktionen)
+sondern bald – bald einerseits – andrerseits
+aber teils – teils je – desto (umso)
+jedoch halb – halb vielmehr
+doch ob – ob
+Sie ist streng, jedoch gerecht.
+Das war kein Zufall, sondern Können.
+Bald behaupten sie dies, bald jenes.
+Viele wünschen nicht mehr Geld, sondern Zeit für sich.
+4a Konjunktionen ohne Komma
+(anreihende Konjunktionen)
+und sowie sowohl – als auch
+als respektive entweder – oder
+bis oder weder – noch
+wie (Vergleich) beziehungsweise
+Sowohl die Anwohner als auch die Behörden halten
+die Lärmbelastung für zu hoch.
+5 Anreden und Ausrufe mit Komma abtrennen
+Ach, seid doch vernünftig!
+5a Unbetontes Bitte nicht abtrennen
+Leiten Sie diese Unterlagen bitte rasch weiter.
+© 2012 HK Verlag / www.sprachtrainer.ch Seite 2 von 2
+Kommaregeln
+Zwischen Teilsätzen
+6 Vollständige Hauptsätze
+mit Komma voneinander trennen
+Sie schrieb den Brief, er brachte ihn zur Post.
+Sie schrieb den Brief, denn sie hatte das versprochen.
+Wenn mit und/oder verbunden, ist das Komma optional:
+Sie schrieb den Brief(,) und er brachte ihn zur Post.
+6a Hauptsatz und/oder unvollständiger
+Hauptsatz: Kein Komma
+Die Wanderer dankten dem Mann und
+(...) setzten ihren Weg bald fort.
+7 Haupt- und Nebensätze
+immer mit Komma voneinander trennen
+Als es dunkel war, gingen alle nach draussen, damit sie
+den Kometen bestaunen konnten.
+Als es dunkel war, gingen alle, damit sie den Kometen
+bestaunen konnten, nach draussen.
+Die Wanderer dankten dem Mann, der ihnen den Weg
+gezeigt hatte, und (...) setzten ihren Weg fort.
+Auch vor unvollständigem Hauptsatz !
+8 Infinitivgruppen mit Komma abtrennen, wenn
+sie um mindestens ein Wort erweitert sind
+Es ist unmöglich, die genaue Besucherzahl anzugeben.
+Wir bitten Sie darum, zehn Minuten vor Beginn zu
+erscheinen.
+8a Infinitivgruppen nicht abtrennen,
+wenn sie mit und/oder verbunden sind
+Am Ende des Abends boten einigen Gäste an, etwas
+länger zu bleiben und beim Aufräumen zu helfen.
+Partizipgruppen können abgetrennt werden.
+Von den Strapazen gezeichnet(,) schliefen sie ein.
+9 Nebensätze mit Komma voneinander trennen
+Wir hoffen, dass viele Interessierte zum Probetraining
+erscheinen, damit sie sich ein genaues Bild von unserer
+Mannschaft machen können.
+9a Nebensätze nicht abtrennen,
+wenn sie mit und/oder verbunden sind
+Die Köchin wollte wissen, wann die Gäste zurück
+seien und ob sie dann noch etwas essen wollten.
+
+GPT:
+Vielen Dank, ich habe die 9 Kommaregeln notiert:
+1.	In Teilsätzen werden Reihungen (Aufzählungen) mit Komma getrennt, wenn "und" stehen könnte. Kein Komma wird zwischen ungleichen Adjektiven verwendet.
+2.	Appositionen zwischen Kommas werden abgetrennt. Das 2. Komma darf nicht vergessen werden.
+3.	Nachträge zwischen Kommas werden mit einem zusätzlichen Komma getrennt. Keine Gefühlskommas (Attribute/Begleiter nicht abtrennen, erstes Satzglied nicht vom Verb trennen).
+4.	Konjunktionen mit Komma werden mit entgegenstellenden Konjunktionen verwendet. Konjunktionen ohne Komma sind anreihende Konjunktionen.
+5.	Anreden und Ausrufe werden mit Komma abgetrennt. Unbetonte "bitte" wird nicht abgetrennt.
+6.	Vollständige Hauptsätze werden mit Komma voneinander getrennt. Wenn sie mit "und/oder" verbunden sind, ist das Komma optional. Kein Komma wird bei einem Hauptsatz und/oder unvollständigem Hauptsatz verwendet.
+7.	Haupt- und Nebensätze werden immer mit Komma voneinander getrennt. Vor einem unvollständigen Hauptsatz wird auch ein Komma verwendet.
+8.	Infinitivgruppen werden mit Komma abgetrennt, wenn sie um mindestens ein Wort erweitert sind. Wenn sie mit "und/oder" verbunden sind, werden sie nicht abgetrennt. Partizipgruppen können abgetrennt werden.
+9.	Nebensätze werden mit Komma voneinander getrennt. Wenn sie mit "und/oder" verbunden sind, werden sie nicht abgetrennt.
+
+ICH:
+Kannst du mir Aufgaben dazu machen? Einfach Sätze ohne Kommas geben und ich muss sagen, wo die Kommas hinkommen.
+
+GPT: Hier sind einige Sätze ohne Kommas, zu denen du die passende Komma-Setzung angeben kannst:
+1.	Ich habe gestern meinen Freund den Bäcker getroffen.
+2.	Maria hat heute Morgen ihren Bruder in der Schule besucht.
+3.	Der Hund der Nachbarin bellt jeden Abend um 22 Uhr.
+4.	Die Lehrerin fragte die Schülerin die Antwort auf die Frage.
+5.	Der Käse den ich gestern gekauft habe war sehr lecker.
+6.	Die Kinder haben in der Pause im Park gespielt.
+7.	Meine Mutter hat gestern Abend ein leckeres Essen für uns gekocht.
+8.	Der Mann der neben mir im Bus saß hatte einen grünen Pullover an.
+9.	Das Auto das wir gestern gemietet haben ist sehr schnell.
+10.	Der Film den wir gestern Abend gesehen haben war sehr spannend.
+
+ICH: 1. nach Freund 2. nach hat und nach Morgen 3. nach Hund und nach Nachbarin 4. Kein Komma 5. nach Käse und nach habe 6. kein Komma 7. nach hat und nach Essen 8. nach Mann und nach sass 9. nach Auto und nach haben 10. nach Film und nach haben

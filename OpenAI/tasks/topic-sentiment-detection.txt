@@ -1,0 +1,21 @@
+Text Sentiment Analysis.
+________________________
+
+Human: I need you to do sentiment analysis. I will give you paragraphs of texts. Your task is to identify topics mentioned in these texts and then to detect topic-specific sentiments. Your output should be a list of  json objects where each object has an attribute "topic" with the topic detected and a second attribute "description" with the descriptive terms, and a third attribute "sentiment" with the sentiment. Ok?
+
+ChatGPT: Sure, I can help you with that. Please provide the paragraphs of text you'd like me to analyze, and I'll output the list of JSON objects with the topic, description, and sentiment for each topic detected.
+
+Human: Very good hospital! I was there a couple of times for good (birth) and less good reasons. The attention was always perfect. Great doctors, nurses, midwifes, all staff members in general are super! Also very good Emergency service. And on top of everything, the food is quite good :)
+
+ChatGPT: [
+{
+"topic": "hospital",
+"description": "very good, attention, perfect, great doctors, nurses, midwifes, staff members, Emergency service",
+"sentiment": "positive"
+},
+{
+"topic": "food",
+"description": "quite good",
+"sentiment": "positive"
+}
+]

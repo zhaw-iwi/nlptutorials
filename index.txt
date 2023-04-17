@@ -1,0 +1,45 @@
+WEEEK 1, GK
+Overall Introduction
+
+Two halfs
+- 1. natural langauge processing
+- 2. image processing
+
+Prerequisites
+- ML process (data preparation, model identifiction/building/configuration, fitting/training, testing/evaluation)
+- Applied to numerical data (possibly also time series?)
+- Couple of models, how they work, nof parameters requiring nof of training data, classification/regression, specific evaluations for clas./regr.
+- If something is not performing well:
+	- new/additional data
+	- adapt data (feature engineering)
+	- model tuning
+	- alternative model
+- Ability to write/debug/execute python code (e.g. notebook), procedural programming, pip install and use of libraries
+
+Natural Language Processing
+- No Slides, No GK/KK distinction, Tutorials (Towardsdatascience) per week, explanation of concepts and coding
+- One overall project
+- Three topics
+	- Classification
+	- Extraction
+	- Generation
+- Project brings everything together
+
+Motivation
+In this first half dedicated to natural language processing (NLP), we aim to be able to fine-tune a pre-trained transformer model. Actually we will fine-tune two models, each slightly differently. We will then evaluate, whether we can detect the different behaviors as belonging to two different classes of behavior.
+
+The following skills will be needed and applied to achieve this project.
+
+Fine-tuning transformer models requires ...
+Generate fine-tuning data sets requires ...
+Extract structured data from different classes of texts requires ...
+Classification of texts (also used to classify transformer responses)
+
+Some First Explanations:
+- What is in- and output of a transformer model, concatenate next word to previous input and loop, chat gpt: keep apending previous in- and outputs (noscope.ch/ca)
+- Idea of fine tuning as opposed to training from scratch
+- Generating fine tuning dataset: romeo&juliet (one with all responses from r, one from j), q&a dataset from texts requires extractions
+- Triples, NER, Sentiment, POS (noscope.ch/ca)
+- Identifying text from different classes
+
+Next First Step: Classifying Text. The problem of representing texts with numbers. Text vectorisation.
