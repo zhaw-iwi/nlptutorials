@@ -4,7 +4,7 @@ public class OpenAIProperties {
 
     private final static String URL = "https://api.openai.com/v1/chat/completions";
     private final static String MODEL = "gpt-4";
-    private final static String KEY = "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";
+    private final static String KEY = "Your OpenAI API Key here";
 
     private static OpenAIProperties INSTANCE;
 
