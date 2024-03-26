@@ -1,0 +1,20 @@
+{
+    "presence_of_person": "Yes",
+    "person_detected": {
+        "person_id": 4,
+        "gender": "Female",
+        "position": "Central in frame",
+        "attire": {
+            "upper_body": "Sweater with a green, white and maroon chevron pattern",
+            "lower_body": "Dark pants",
+            "shoes": "Not visible in this picture"
+        },
+        "hair_color": "Dark",
+        "posture": "Standing, though no longer with arms by her side; hands are up and gesturing, suggesting an active involvement in the current social interaction"
+    },
+    "observations": {
+        "facial_expression": "Smiling, appearing to be enjoying the interaction",
+        "engagement": "Directly interacting with at least one other individual in a playful manner",
+        "additional_context": "Based on the previous description, attire and hair can be used as recognition parameters in other images as well."
+    }
+}

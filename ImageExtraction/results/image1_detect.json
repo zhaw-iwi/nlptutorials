@@ -1,0 +1,71 @@
+{
+    "social_situation": {
+        "description": "A group of young adults casually socializing outdoors",
+        "number_of_people": 5,
+        "setting": "Outdoor, possibly urban area near a chain link fence with graffiti in the background.",
+        "time_of_day": "Likely late afternoon or early evening given the long shadows"
+    },
+    "people": [
+        {
+            "person_id": 1,
+            "gender": "Male",
+            "position": "Standing on the left",
+            "attire": {
+                "upper_body": "Denim jacket over a white top",
+                "lower_body": "Dark pants",
+                "shoes": "White sneakers"
+            },
+            "hair_color": "Dark",
+            "posture": "Standing with hands in pockets, slightly turned toward the left"
+        },
+        {
+            "person_id": 2,
+            "gender": "Male",
+            "position": "Sitting in the center",
+            "attire": {
+                "upper_body": "Brown jacket over a dark top",
+                "lower_body": "Light-colored pants",
+                "shoes": "White sneakers"
+            },
+            "hair_color": "Blond",
+            "posture": "Seated with one knee raised, looking up"
+        },
+        {
+            "person_id": 3,
+            "gender": "Male",
+            "position": "Standing in the middle",
+            "attire": {
+                "upper_body": "Dark and white striped long sleeve shirt",
+                "lower_body": "Dark pants",
+                "shoes": "Black shoes"
+            },
+            "hair_color": "Dark",
+            "posture": "Standing with hands clasped in front, facing slightly right"
+        },
+        {
+            "person_id": 4,
+            "gender": "Female",
+            "position": "Standing on the right",
+            "attire": {
+                "upper_body": "Sweater with a green, white and maroon chevron pattern",
+                "lower_body": "Dark pants",
+                "shoes": "Light-colored footwear"
+            },
+            "hair_color": "Dark",
+            "posture": "Standing with arms by her side, facing another person"
+        },
+        {
+            "person_id": 5,
+            "gender": "Female",
+            "position": "Standing on the far right",
+            "attire": {
+                "upper_body": "Yellow top",
+                "lower_body": "Blue jeans",
+                "shoes": "Brownish ankle boots"
+            },
+            "hair_color": "Dark",
+            "posture": "Standing with one hand on hip, engaged in conversation"
+        }
+    ],
+    "activity": "Conversing, relaxing, possibly waiting for something or someone"
+}
